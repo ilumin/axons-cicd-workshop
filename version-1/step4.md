@@ -7,16 +7,6 @@ layout: cover
 
 ---
 
-# Steps
-
-1. Create SonarCloud account
-2. Create SonarCloud project
-3. Get SonarCloud Token
-4. Update project's workflows
-5. Run pipeline and check result
-
----
-
 # Register SonarCloud
 
 ![SonarCloud](/sonar-1.png){class="w-200 ma"}
