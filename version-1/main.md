@@ -9,10 +9,6 @@ section: Intro
 3. Deploy frontend
 4. Quality measurement 
 
-<!--
-226b69d59647587cb27524d263b788b7f4153e1b
--->
-
 ---
 src: "./step1.md"
 ---
