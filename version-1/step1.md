@@ -58,7 +58,7 @@ Frontend: [github.com/ilumin/yummy-list](https://github.com/ilumin/yummy-list)
 
 ```shell
 # clone source code from GitHub
-git clone https://github.com/ilumin/yummy-list.git axn-lab-frontend && axn-lab-frontend/
+git clone https://github.com/ilumin/yummy-list.git axn-lab-frontend && cd axn-lab-frontend/
 
 # copy environment variables
 cp .env-example .env
