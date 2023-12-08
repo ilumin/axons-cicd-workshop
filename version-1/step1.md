@@ -35,7 +35,7 @@ Backend [github.com/natchanonpor/backendNestjs](https://github.com/natchanonpor/
 git clone https://github.com/natchanonpor/backendNestjs.git axn-lab-backend && cd axn-lab-backend/
 
 # copy environment variable
-cp .env-example
+cp .env-example .env
 
 # install dependencies
 npm i 
