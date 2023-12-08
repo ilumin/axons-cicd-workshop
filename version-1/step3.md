@@ -86,8 +86,7 @@ Edit file `.github/workflows/firebase-hosting-merge.yml` and `.github/workflows/
 steps:
    - uses: actions/checkout@v3
 -  - run: npm ci && npm run build
-+  - run: npm ci
-+  - run: VITE_API_URL=${{ secrets.VITE_API_URL }} npm run build
++  - run: VITE_API_URL=${{ secrets.VITE_API_URL }} npm ci && npm run build
    - uses: FirebaseExtended/action-hosting-deploy@v0
 ```
 
